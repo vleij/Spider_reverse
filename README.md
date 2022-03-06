@@ -12,4 +12,5 @@
 ### 如若涉及侵权，请邮件或qq联系删除! 
 
 1.  [头条js逆向_signature，快速定位加密位置](https://github.com/vleij/Spider_reverse/tree/main/toutiao)
-3. [百度翻译接口参数js逆向](https://github.com/vleij/Spider_reverse/tree/main/baidu_fy)
+2. [百度翻译接口参数js逆向](https://github.com/vleij/Spider_reverse/tree/main/baidu_fy)
+3. [freightsmart航运--webpack逆向](https://github.com/vleij/Spider_reverse/tree/main/oocl)
